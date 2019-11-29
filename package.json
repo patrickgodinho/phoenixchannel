@@ -1,0 +1,11 @@
+{
+  "name": "socket-phoenix",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "phoenix-channels": "^1.0.0",
+    "uuid": "^3.3.3"
+  }
+}
